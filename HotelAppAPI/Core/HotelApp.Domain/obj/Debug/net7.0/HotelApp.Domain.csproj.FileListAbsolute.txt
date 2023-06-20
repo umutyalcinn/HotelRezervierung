@@ -1,0 +1,12 @@
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Core\HotelApp.Domain\bin\Debug\net7.0\HotelApp.Domain.deps.json
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Core\HotelApp.Domain\bin\Debug\net7.0\HotelApp.Domain.dll
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Core\HotelApp.Domain\bin\Debug\net7.0\HotelApp.Domain.pdb
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Core\HotelApp.Domain\obj\Debug\net7.0\HotelApp.Domain.csproj.AssemblyReference.cache
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Core\HotelApp.Domain\obj\Debug\net7.0\HotelApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Core\HotelApp.Domain\obj\Debug\net7.0\HotelApp.Domain.AssemblyInfoInputs.cache
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Core\HotelApp.Domain\obj\Debug\net7.0\HotelApp.Domain.AssemblyInfo.cs
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Core\HotelApp.Domain\obj\Debug\net7.0\HotelApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Core\HotelApp.Domain\obj\Debug\net7.0\HotelApp.Domain.dll
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Core\HotelApp.Domain\obj\Debug\net7.0\refint\HotelApp.Domain.dll
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Core\HotelApp.Domain\obj\Debug\net7.0\HotelApp.Domain.pdb
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Core\HotelApp.Domain\obj\Debug\net7.0\ref\HotelApp.Domain.dll

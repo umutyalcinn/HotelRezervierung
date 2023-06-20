@@ -1,0 +1,12 @@
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Infrastructure\HotelApp.Infrastructure\bin\Debug\net7.0\HotelApp.Infrastructure.deps.json
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Infrastructure\HotelApp.Infrastructure\bin\Debug\net7.0\HotelApp.Infrastructure.dll
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Infrastructure\HotelApp.Infrastructure\bin\Debug\net7.0\HotelApp.Infrastructure.pdb
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Infrastructure\HotelApp.Infrastructure\obj\Debug\net7.0\HotelApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Infrastructure\HotelApp.Infrastructure\obj\Debug\net7.0\HotelApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Infrastructure\HotelApp.Infrastructure\obj\Debug\net7.0\HotelApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Infrastructure\HotelApp.Infrastructure\obj\Debug\net7.0\HotelApp.Infrastructure.AssemblyInfo.cs
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Infrastructure\HotelApp.Infrastructure\obj\Debug\net7.0\HotelApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Infrastructure\HotelApp.Infrastructure\obj\Debug\net7.0\HotelApp.Infrastructure.dll
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Infrastructure\HotelApp.Infrastructure\obj\Debug\net7.0\refint\HotelApp.Infrastructure.dll
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Infrastructure\HotelApp.Infrastructure\obj\Debug\net7.0\HotelApp.Infrastructure.pdb
+C:\Users\umuty\Source\Repos\umutyalcinn\HotelAppAPI\Infrastructure\HotelApp.Infrastructure\obj\Debug\net7.0\ref\HotelApp.Infrastructure.dll

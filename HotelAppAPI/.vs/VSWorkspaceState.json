@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\HotelApp.Domain",
+    "\\Core\\HotelApp.Domain\\Entities",
+    "\\Infrastructure",
+    "\\Presentation",
+    "\\Presentation\\HotelApp.API"
+  ],
+  "SelectedNode": "\\Core\\HotelApp.Domain\\Entities\\Room.cs",
+  "PreviewInSolutionExplorer": false
+}

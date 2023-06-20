@@ -1,0 +1,61 @@
+.container{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.input {
+    padding: 5px 0px;
+}
+
+.header{
+    text-align: center;
+}
+
+.button{
+    background-color: #3e78ed;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.button:hover{
+    background-color: #6382c2;
+}
+
+.icon{
+    margin: 5px;
+}
+
+.tab{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.body{
+    border: black solid 1px;
+    padding: 10px;
+}
+
+.tab-item{
+    width: 100%;
+    padding: 5px 0px;
+    background-color: #3e78ed;
+    border: none;
+}
+
+.tab-item:hover{
+    color:white;
+}
+
+.selected{
+    background-color: #6382c2;
+}
+
+.tab-item-selected:hover{
+    color:white;
+}
